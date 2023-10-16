@@ -20,6 +20,7 @@ export default {
 <style scoped>
 h2 {
   margin: 40px 0 0;
+  font-family: var(--secondary-font);
 }
 ul {
   list-style-type: none;

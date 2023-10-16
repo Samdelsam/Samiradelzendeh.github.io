@@ -1,0 +1,21 @@
+/* src/styles.css */
+
+/* Basic styles for the body element */
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: var(--primary-font);
+    font-weight: 400;
+    background-color: var(--primary-color);
+    margin: 0;
+    padding: 0;
+}
+
+/* Define primary and secondary color variables */
+:root {
+    --primary-color: pink; /* Change this to your primary color */
+    --secondary-color: #6c757d; /* Change this to your secondary color */
+    --primary-font: "Inter",sans-serif; /* Change this to your primary color */
+    --secondary-font: "Forum",serif;
+
+}
