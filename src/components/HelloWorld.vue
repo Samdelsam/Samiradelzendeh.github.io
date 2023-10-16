@@ -3,6 +3,7 @@
     <h2>WoooW Look at meee !</h2>
     <h3>Im Online</h3>
     <h3>YooOOHooOOO</h3>
+    <h3>Please be patient.I'm under constructions</h3>
   </div>
 </template>
 
